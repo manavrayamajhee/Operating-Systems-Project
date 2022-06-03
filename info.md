@@ -1,1 +1,0 @@
-These mini projects was done for an Operating Systems class.
